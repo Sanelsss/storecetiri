@@ -299,7 +299,6 @@ Cocktails List
   column-gap: 2rem;
   align-items: stretch;
   grid-template-columns: repeat(auto-fill, minmax(238.8px, 1fr));
-
 }
 
 
@@ -863,8 +862,9 @@ margin-right: auto; */
   z-index: 1;
 }
   .cocktails-center {
-  justify-content: left;
+  justify-content: center;
   align-items: center;
+  text-align: center;
   }
   .drink{
     text-align:center;
