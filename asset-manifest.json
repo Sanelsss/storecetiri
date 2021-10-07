@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/storecetiri/static/css/main.a4de7e14.chunk.css",
-    "main.js": "/storecetiri/static/js/main.17a5c864.chunk.js",
-    "main.js.map": "/storecetiri/static/js/main.17a5c864.chunk.js.map",
+    "main.js": "/storecetiri/static/js/main.c8c3402a.chunk.js",
+    "main.js.map": "/storecetiri/static/js/main.c8c3402a.chunk.js.map",
     "runtime-main.js": "/storecetiri/static/js/runtime-main.0d9e1bbd.js",
     "runtime-main.js.map": "/storecetiri/static/js/runtime-main.0d9e1bbd.js.map",
     "static/css/2.039bb34a.chunk.css": "/storecetiri/static/css/2.039bb34a.chunk.css",
     "static/js/2.f93763b5.chunk.js": "/storecetiri/static/js/2.f93763b5.chunk.js",
     "static/js/2.f93763b5.chunk.js.map": "/storecetiri/static/js/2.f93763b5.chunk.js.map",
     "index.html": "/storecetiri/index.html",
-    "precache-manifest.3eeef511a9a9fb3f447b68a15e66a8c8.js": "/storecetiri/precache-manifest.3eeef511a9a9fb3f447b68a15e66a8c8.js",
+    "precache-manifest.06cf1d312bb0a3063d6c3d2af7c4548a.js": "/storecetiri/precache-manifest.06cf1d312bb0a3063d6c3d2af7c4548a.js",
     "service-worker.js": "/storecetiri/service-worker.js",
     "static/css/2.039bb34a.chunk.css.map": "/storecetiri/static/css/2.039bb34a.chunk.css.map",
     "static/css/main.a4de7e14.chunk.css.map": "/storecetiri/static/css/main.a4de7e14.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.039bb34a.chunk.css",
     "static/js/2.f93763b5.chunk.js",
     "static/css/main.a4de7e14.chunk.css",
-    "static/js/main.17a5c864.chunk.js"
+    "static/js/main.c8c3402a.chunk.js"
   ]
 }
