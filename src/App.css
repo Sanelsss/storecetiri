@@ -132,8 +132,8 @@ a {
 Buttons 
 ======
 */
-.btn,
-/* .btn-white, */
+
+
 .btn-primary {
   text-transform: uppercase;
   letter-spacing: 0.2rem;/* var(--mainSpacing); */
@@ -363,14 +363,14 @@ Cocktail
 .fa:hover{
   color:var(--mainYellow);
 }
-.dropdown-menu {
+/* .dropdown-menu {
   background-color: rgba(0, 0, 0, 0.8) !important;
-}
+} */
 .dropdown-item{
   color:var(--mainYellow) !important;
   font-family: 'Jomhuria', cursive;
-  background-color: rgba(0, 0, 0, 0.8);
-height: auto;
+/*   background-color: rgba(0, 0, 0, 0.8);
+ */height: auto;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap');
@@ -384,6 +384,8 @@ nav a.nav-link{
   .dropdown-menu{
     position: absolute;
     letter-spacing: 0.0375rem;
+    background-color: rgba(0, 0, 0, 0.8) !important;
+
   }
 .cocktail img:hover {
   box-shadow: var(--mainWhite);

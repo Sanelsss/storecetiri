@@ -64,7 +64,7 @@ export default function SinglePhone  (/* {company,info,  img, title, price,inCar
          <span className='drink-data' >
            info:</span></p> 
            <p className="drink-s" >{info}</p>
-              <Link to="/">  <span className="btn btn-primary ml-0"> 
+              <Link to="/">  <span className="btn btn-black ml-0"> 
       go back</span>
       </Link>
             </div>      
