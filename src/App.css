@@ -728,6 +728,7 @@ margin-top: 0.5rem;
   justify-content: center;
   height:auto;
  /*  margin-bottom: 25rem; */
+ margin-bottom:0rem /* 10rem */;
   z-index: 0;
 }
 .add{
@@ -770,18 +771,13 @@ nav{
   
   margin-bottom: 10rem;
 }
-.cart{
-  margin-bottom:0rem /* 10rem */;
-
-}
-
 @media(min-width: 1024px){
-  .cart{
-    justify-content: center;
-    height:1rem/* auto */;
+ /* .cart{
+     justify-content: center;
+    height:1rem;
      margin-bottom: 20rem; 
-    z-index: 0;
-  }
+    z-index: 0; 
+  }*/
   .drink{
     margin-bottom: auto;
   }
@@ -867,9 +863,8 @@ margin-right: auto; */
   z-index: 1;
 }
   .cocktails-center {
-  justify-content: center;
+  justify-content: left;
   align-items: center;
-  
   }
   .drink{
     text-align:center;
