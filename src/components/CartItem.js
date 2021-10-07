@@ -23,7 +23,7 @@ const CartItem = ({ id, img, title, price,inCart,company,info, }) => {
           className="my-0">Add</p>}
           </button>
           </div>
-          <div className=" ">
+          <div className=" cocktail-section ">
         <h6 className="text-blue my-0 ">{title}</h6>
         <h5 className='text-blue my-0 '>${price}</h5>
         </div>
