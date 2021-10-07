@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0fd3e47368fc0cf2e32497bc8a5927e7",
+    "revision": "e530c3ef01f1617eb8c89adbbf9c4b4f",
     "url": "/storecetiri/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/storecetiri/static/css/2.039bb34a.chunk.css"
   },
   {
-    "revision": "30d4b7449c8f0ee228b6",
-    "url": "/storecetiri/static/css/main.69d269cf.chunk.css"
+    "revision": "94bfa3754302df720925",
+    "url": "/storecetiri/static/css/main.501b2302.chunk.css"
   },
   {
     "revision": "f01e5272e9e8c6f41ec2",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/storecetiri/static/js/2.f93763b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "30d4b7449c8f0ee228b6",
-    "url": "/storecetiri/static/js/main.4a099306.chunk.js"
+    "revision": "94bfa3754302df720925",
+    "url": "/storecetiri/static/js/main.17a5c864.chunk.js"
   },
   {
     "revision": "f905e9fbf6d5d189d72d",
