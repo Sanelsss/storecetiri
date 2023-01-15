@@ -1,2 +1,3 @@
-This is An Application that uses API for displaying Cryptocurrency informations and news to an end user. You can find this application deployed on Netlify: "https://coinapplicationx.netlify.app" It's working for both mobile and web.
+This is An Application that uses API for displaying different types of mobile phones to an end user. You can see details, buy, delete items from your card, add new items with photo related to the item. I have used JavaScript and React concepts with CSS and HTML. For better functioning I used useGlobalContext,multiple React Hooks, react-router-dom.
+ You can find this application deployed on Netlify: "https://coinapplicationx.netlify.app" It's working for both mobile and web.
 
